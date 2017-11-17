@@ -1,0 +1,9 @@
+c:\users\cveto\onedrive\документы\visual studio 2017\Projects\лаб-5\лаб-5\bin\Debug\лаб-5.exe.config
+c:\users\cveto\onedrive\документы\visual studio 2017\Projects\лаб-5\лаб-5\bin\Debug\лаб-5.exe
+c:\users\cveto\onedrive\документы\visual studio 2017\Projects\лаб-5\лаб-5\bin\Debug\лаб-5.pdb
+c:\users\cveto\onedrive\документы\visual studio 2017\Projects\лаб-5\лаб-5\obj\Debug\лаб-5.csprojResolveAssemblyReference.cache
+c:\users\cveto\onedrive\документы\visual studio 2017\Projects\лаб-5\лаб-5\obj\Debug\лаб_5.Form1.resources
+c:\users\cveto\onedrive\документы\visual studio 2017\Projects\лаб-5\лаб-5\obj\Debug\лаб_5.Properties.Resources.resources
+c:\users\cveto\onedrive\документы\visual studio 2017\Projects\лаб-5\лаб-5\obj\Debug\лаб-5.csproj.GenerateResource.Cache
+c:\users\cveto\onedrive\документы\visual studio 2017\Projects\лаб-5\лаб-5\obj\Debug\лаб-5.exe
+c:\users\cveto\onedrive\документы\visual studio 2017\Projects\лаб-5\лаб-5\obj\Debug\лаб-5.pdb
